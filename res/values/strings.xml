@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="plank_step1">1. Assume a push-up position but bend your arms at your elbows so your weight rests on your forearms.</string>
+    <string name="plank_step2">2. Tighten your abs, clench your glutes and keep your body straight from head to heels.</string>
+    <string name="plank_step3">3. Hold for atleast two minutes.</string>
+
+    <string name="rt_step1">1. Root into your sit bones as you lift your feet from the floor, keeping your knees bent.</string>
+    <string name="rt_step2">2. Elongate and straighten your spine at a 45-degree angle from the floor, creating a V shape with your torso and thighs.</string>
+    <string name="rt_step3">3. Reach your arms straight out in front, interlacing your fingers or clasping your hands together.</string>
+    <string name="rt_step4">4. Use your abdominals to twist to the right, then back to center, and then to the left.</string>
+    <string name="rt_step5">5. This is 1 repetition. Do 2 to 3 sets of 8 to 16 repetitions.</string>
+
+    <string name="bp_step1">1. Lying on your back, bend both knees and place the feet flat on the floor hip width apart. Slide the arms alongside the body with the palms facing down. The fingertips should be lightly touching the heels.</string>
+    <string name="bp_step2">2. Press the feet into the floor, inhale and lift the hips up, rolling the spine off the floor.</string>
+    <string name="bp_step3">3.  Press down into the arms and shoulders to lift the chest up. Engage the legs, buttocks and mula bandha to lift the hips higher.</string>
+    <string name="bp_step4">4. Breathe and hold for 4-8 breaths.</string>
+    <string name="bp_step5">5. To release: exhale and slowly roll the spine back to the floor.</string>
+
+    <string name="ac_step1">1. Stand tall with your arms straight out to your sides and your muscles contracted down the length of your arm.</string>
+    <string name="ac_step2">2. Slowly make circles with your arms by rotating them around your shoulders while keeping them straight and your elbows locked with tension.</string>
+    <string name="ac_step3">3. Perform 3 sets of 10–20 repetitions in both directions. You can perform sets of large or small diameter circles to slightly change the effort required.</string>
+
+    <string name="td_step1">1. Place your hands shoulder-width apart on the chair you’re propping yourself upon.</string>
+    <string name="td_step2">2. Shift your pelvis and bottom forward so there’s a gap of 3–6 inches (8–15 cm) between your back and the chair, giving you clearance as you dip down.</string>
+    <string name="td_step3">3. Bend your legs to a 90–degree angle with your feet planted firmly on the ground, or extend them out in front of you (but don’t lock your knees).</string>
+    <string name="td_step4">4. Slowly lower your body straight down and then push back up, focusing on engaging your triceps.</string>
+    <string name="td_step5">5. Complete 3 sets of 10–12 reps.</string>
+
+    <string name="pushup_step1">1. Begin in a pushup position with your hands under your shoulders, spine neutral, and legs straight. If needed, keep your knees on the ground to reduce the difficulty level.</string>
+    <string name="pushup_step2">2. Lower your entire body in unison toward the floor by bending at the elbow. Keep your elbows close to your sides or at about a 45–degree angle. Lower your chest until your upper arm is parallel to the floor.</string>
+    <string name="pushup_step3">3. Push through the floor to drive back to the top position, maintaining control the entire time.</string>
+    <string name="pushup_step4">4. Repeat for 3 sets of 10–12 repetitions.</string>
+
+    <string name="ws_step1">1. Make sure your back is flat against the wall.</string>
+    <string name="ws_step2">2. Place your feet firmly on the ground, shoulder-width apart, and then about two feet out from the wall.</string>
+    <string name="ws_step3">3. Slide your back down the wall while keeping your core engaged and bending your legs until they’re in a 90-degree angle</string>
+    <string name="ws_step4">4. Hold your position, while contracting your ab muscles.</string>
+
+    <string name="lunges_step1">1. Bend the knees and lower your body until the back knee is a few inches from the floor. At the bottom of the movement, the front thigh is parallel to the ground, the back knee points toward the floor, and your weight is evenly distributed between both legs.</string>
+    <string name="lunges_step2">2. Push back up to the starting position, keeping your weight on the heel of the front foot.</string>
+
+    <string name="squats_step1">1. Stand straight with feet hip-width apart.</string>
+    <string name="squats_step2">2. Tighten your stomach muscles.</string>
+    <string name="squats_step3">3. Lower down, as if sitting in an invisible chair.</string>
+    <string name="squats_step4">4. Straighten your legs to lift back up.</string>
+    <string name="squats_step5">5. Repeat for three sets of 10 to 15 reps.</string>
+</resources>
